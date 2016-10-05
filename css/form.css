@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    padding-top: 50px;
+}
+.panel-gold {
+    color: gold;
+}
+.panel-gold > .panel-heading {
+    color: gold;
+    background-color: gold;
+    border-color: gold;
+}
